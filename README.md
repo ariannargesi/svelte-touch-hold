@@ -15,17 +15,15 @@
 #### How to use?
 ```svelte
 <script>
-	import TouchHold from 'svelte-touch-hold'
-	
-	const callback = () => {
-		alert('Do something fancy!!!')
-	}
-	
+    import TouchHold from 'svelte-touch-hold'
+    
+    const callback = () => {
+	alert('Do something fancy!!!')
+     }	
 </script>
 
 <TouchHold tag='button' delay={2000} onHold={callback}>
-	Hello world 
+    Hello world 
 </TouchHold>
-
 ```
 
