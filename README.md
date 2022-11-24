@@ -6,7 +6,7 @@
 
 #### Props list 
 | Name      | Type | Description |
-| ----------- | ----------- |
+| - | - | -
 | tag      | string | wrapper element for the component
 | delay   | number | number of milliseconds needed to hold the component before triggering the callback
 | onHold | function | runs this function after pressing the component for specific milliseconds
