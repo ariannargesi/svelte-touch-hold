@@ -13,7 +13,7 @@
 | onClick | function | Just a simple onClick event. Unless onHold, You can run this with clicking with the mouse
 
 #### How to use?
-```javascript
+```svelte
 <script>
     import TouchHold from 'svelte-touch-hold'
     
