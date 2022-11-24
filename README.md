@@ -3,7 +3,7 @@
 - runs a callback function after touching and holding the component for specific milliseconds. it only fires the "holding" callback on touch screens.
 
 ![Example.gif](./example.gif)
-
+![dfdsf](dsfdsf)
 #### Props list 
 | Name      | Type | Description |
 | ----------- | ----------- |
@@ -28,4 +28,3 @@
 </TouchHold>
 
 ```
-
