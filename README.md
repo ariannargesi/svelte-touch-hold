@@ -1,6 +1,6 @@
 #### What it does? 
 
-- runs a callback function after touching and holding the component for specific milliseconds. it only fires the "holding" callback on touch screens.
+- This small component runs a callback function after touching and holding for specific milliseconds. it only fires the "holding" callback on touch screens.
 
 #### Props list 
 | Name      | Type | Description |
